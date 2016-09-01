@@ -1,2 +1,2 @@
 # zend-test
-Zend Studio tests
+Zend Studio tests 2
